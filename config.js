@@ -5,11 +5,11 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'iu iu',
-    title: 'Phải chăng em đã yêu ngay từ lần nhắn đầu tiên 😙',
+    title: 'Phải chăng em đã yêu ngay từ lần inbox đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <3',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại nhắn với anh <3',
+    question:'Trên thế giới hơn 7 ti người mà sao em lại nhắn với anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu cũng yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
